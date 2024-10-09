@@ -58,7 +58,6 @@ This repository contains the raw data, dashboard, and documentation for business
 
 * Data analysis documentation
 * Dashboard 1
-* Dashboard 2
 * Supporting materials (e.g., data sources, methodology)
 
 **Key Insights (Summary):**
@@ -68,7 +67,6 @@ This repository contains the raw data, dashboard, and documentation for business
   * Younger people buy more low-priced products.
   * Shortbread Brand, Chicago Location, Robert Hernandez Customer, 15-29 Age-Group and Travis 
   Doyle Salesperson are the most profitable.
-* **Dashboard :**
   * Total revenue has increased steadily with $26,784,833 Total profit and 44% of Profit 
   Margin.
   * Overall profit is up, but the profit margin is slightly lower due to higher costs.
